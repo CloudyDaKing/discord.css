@@ -14,3 +14,11 @@
     description: "get bot commands";
     response: "Hi bugsy!";
 }
+
+.onjoin{
+    message: "Welcome to the server!";
+}
+
+.onleave{
+    message: "Goodbye!";
+}
