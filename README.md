@@ -8,5 +8,26 @@ use discordcss {css file path} to run the css file
 
 ## Documentation
 
-i cant be asked to make a documentation so just look at the app.css file, someone else can do it if they want
-havent tested onleave and onjoin yet so no clue if they work
+no docs, view example below:
+
+```css
+
+.client {
+    token: "";
+    prefix: "!"
+}
+
+.command{
+    command: "ping";
+    description: "get bot latency";
+    response: "Pong!";
+}
+
+.command{
+    command: "bugsy";
+    description: "get bot commands";
+    response: "Hi bugsy!";
+}
+
+
+```
