@@ -1,0 +1,16 @@
+.client {
+    token: "";
+    prefix: "!"
+}
+
+.command{
+    command: "ping";
+    description: "get bot latency";
+    response: "Pong!";
+}
+
+.command{
+    command: "bugsy";
+    description: "get bot commands";
+    response: "Hi bugsy!";
+}
