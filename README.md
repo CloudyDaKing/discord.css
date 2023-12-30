@@ -5,6 +5,7 @@
 run ```git clone https://github.com/CloudyDaKing/discord.css.git``` in your terminal
 then cd into the directory and run ``pip install .```
 use ```discordcss {css file path}``` to run  css file
+ill update it to pypi soon 
 
 ## Documentation
 
