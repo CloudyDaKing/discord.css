@@ -29,5 +29,13 @@ no docs, view example below:
     response: "Hi bugsy!";
 }
 
+.onjoin{
+    channel_id: "general";
+    response: "Hello World!";
+}
 
+.onleave{
+    channel_id: "general";
+    response: "Hello World!";
+}
 ```
