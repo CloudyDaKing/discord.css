@@ -2,10 +2,9 @@
 ### A simple python package to use css for discord api
 
 ## Installation
-run ```git clone https://github.com/CloudyDaKing/discord.css.git``` in your terminal
-then cd into the directory and run ``pip install .```
-use ```discordcss {css file path}``` to run  css file
-ill update it to pypi soon 
+ run ``pip install discordcss```
+ run discordcss <file path> to run bot
+
 
 ## Documentation
 
